@@ -1,0 +1,10 @@
+# 系统/编辑器垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+*.bak
+
+# 临时解压目录（要提交解压后的内容时，把下面两行删掉）
+TeboView_Merged_4.0/
